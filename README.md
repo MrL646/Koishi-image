@@ -1,3 +1,4 @@
 # Koishi-image
 Source of ramdom-koishi.vercel.app/api    
-All images were collected from ~~water bucket~~ Baidu tieba.
+All the images were collected from ~~water bucket~~ Baidu tieba.    
+Image's Pixiv ID/source link can be found by [this tool](https://saucenao.com/).
